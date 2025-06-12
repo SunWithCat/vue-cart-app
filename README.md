@@ -1,28 +1,22 @@
 # vue-cart-app
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple shopping cart application built with Vue 3 and Vite.
+一个简单的在线电子购物的Vue 3应用。
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Add and remove items from the cart
+- View product details
+- Responsive design
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## Quick Start
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Build for Production
 
 ```sh
 npm run build
