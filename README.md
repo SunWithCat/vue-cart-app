@@ -3,6 +3,8 @@
 A simple shopping cart application built with Vue 3 and Vite.
 一个简单的在线电子购物的Vue 3应用。
 
+![Home View](src/assets/homeview.png)
+
 ## Features
 
 - Add and remove items from the cart
